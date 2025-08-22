@@ -1,0 +1,37 @@
+
+****************** BASIC BASH COMMANDS***********************************
+#########################################################################
+#           ls -List directory contents                                 #   
+#           cd -change the current directory.                           #
+#           pwd -print the current working directory.                   #
+#           echo -Display the line of text.                             # 
+#           cat -Concatenate and Display files.                         #
+#           cp - Copy files and Directory.                              #
+#           mv - Move or rename files.                                  #
+#           rm -Delete files and folder.                                #
+#           touch -Create an empty file or Update its time.             #
+#           mkdir -Create a new folder.                                 #
+#########################################################################
+
+
+#########################################################################
+#                                                                        #
+#
+#
+#
+#
+#
+#
+#
+#                                                                        #
+#                                                                        #
+#                                                                        #
+##########################################################################
+
+
+
+
+
+
+
+
