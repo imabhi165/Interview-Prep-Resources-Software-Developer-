@@ -3,3 +3,4 @@
 
 name="Abhishek"
 echo "Hello,$name!"
+echo "Today is $(date)"
